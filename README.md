@@ -19,4 +19,4 @@ This project is a Sales and Profits Dashboard created using Power BI.
 
 ## Dashboard Preview
 
-![Sales and Profits Dashboard](dashboard.png)
+![Sales and Profits Dashboard](Screenshot%202026-09-23%20200620.png)
